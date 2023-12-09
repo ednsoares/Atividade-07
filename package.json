@@ -1,0 +1,15 @@
+{
+  "name": "jogo_do_milhao",
+  "version": "1.0.0",
+  "description": "criacao de um jogo de perguntas e respostas",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ednsoares",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
