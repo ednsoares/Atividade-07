@@ -4,7 +4,7 @@
 2. [Regras](#regras)
 3. [Instalação e Execução](#exec)
 4. [Como jogar](#jogar)
-5. [Creditos](#credits)
+5. [Créditos](#credits)
 6. [Licença](#licenca)
 
 
@@ -13,7 +13,7 @@
 <div id="descricao">
 <h2>1. Descrição </h2>
 <p>Olá! sou Ednei Soares de Carvalho Filho, este é uma versão do jogo do milhão rodando com o node.js no terminal.  <br>
-Este jogo foi solicitado na materia de desenvolvimento WEB com a ideia de exercitar os conhecimentos no ambiente de execução do node.js!</p>
+Este jogo foi solicitado na matéria de desenvolvimento WEB com a ideia de exercitar os conhecimentos no ambiente de execução do node.js!</p>
 </div>
 
 <hr>
@@ -23,11 +23,11 @@ Este jogo foi solicitado na materia de desenvolvimento WEB com a ideia de exerci
 <p> A ideia do jogo é realmente lembrar o famoso jogo do milhão de perguntas e respostas, com opção de desistir a qualquer momento </p>
 <dl>
   <dt><h4>2.1. Você inicia o jogo inserindo o seu nome</h4></dt>
-  <dt><h4>2.2. O jogo tem no maximo 5 perguntas, cada pergunta possui um valor e a cada pergunta você inseri uma resposta</h4></dt>
+  <dt><h4>2.2. O jogo tem no máximo 5 perguntas, cada pergunta possui um valor e a cada pergunta você inseri uma resposta</h4></dt>
   <dt><h4>2.3. Se a resposta for correta será gerada uma nova pergunta.</h4></dt>
   <dt><h4>2.4. Se a resposta for errada o programa irá se encerrar mostrando a alternativa correta.</h4></dt>
   <dt><h4>2.5. Se a resposta for desistir ganhará o valor proposto.</h4></dt>
-  <dt><h4>2.3. No final de todas as partidas o progrma lhe perguntará se quer repetir o jogo.</h4></dt>
+  <dt><h4>2.3. No final de todas as partidas o programa lhe perguntará se quer repetir o jogo.</h4></dt>
 </dl>
 </div>
 
@@ -72,7 +72,7 @@ npm start
 
 <div id="credits">
 <h2>5. Créditos</h2>
-<p>Abaixo segue alguns links que serviu de base e de ajuda para conseguir finalizar esse pequeno projeto.</p>
+<p>Abaixo segue alguns links que serviram de base e de ajuda para conseguir finalizar esse pequeno projeto.</p>
 <dl>
   <dt><h3>5.1. <a href="https://nodejs.org/pt-br/docs/"> Documentação Node</a></h3></dt>
   <dt><h3>5.2. <a href="https://youtu.be/1TzCYVTC9tc?si=YixPmAdS9J68mCGf">NodeJs - Entrada de dados com prompt-sync</a></h3></dt>
@@ -92,3 +92,5 @@ npm start
     <dd><a href="https://github.com/ednsoares/Atividade-07/blob/main/LICENSE">GPL - 3.0</a></dd>
 </dl>
 </div>
+
+
