@@ -89,6 +89,6 @@ npm start
     <dd>ISC</dd>
   
   <dt><h3>6.2. Licença do GitHub</h3></dt>
-    <dd><a href=" ">GPL - 3.0</a></dd>
+    <dd><a href="https://github.com/ednsoares/Atividade-07/blob/main/LICENSE">GPL - 3.0</a></dd>
 </dl>
 </div>
